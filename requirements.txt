@@ -1,0 +1,8 @@
+streamlit
+openai
+datetime
+duckdb
+langchain
+unstructured
+bs4
+
